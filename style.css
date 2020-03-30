@@ -1,0 +1,22 @@
+
+p
+{
+    
+    
+}
+
+body
+{
+margin:40px auto;
+max-width: 650px; /*largeur max du texte*/
+font-size: 1.1em; /*Taille relative à l'écran*/
+color: #444;
+line-height: 1.6; /*Espace entre lignes général*/
+
+
+}
+
+h1, h2, h3
+{
+    line-height: 1.2; /*Espace entre lignes du type h1, h2, h3*/
+}
